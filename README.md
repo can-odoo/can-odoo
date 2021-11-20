@@ -4,7 +4,6 @@
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
-![odoo](https://image.pngaaa.com/732/5094732-middle.png)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=can-odoo.id)
 
